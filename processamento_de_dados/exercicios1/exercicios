@@ -1,0 +1,4 @@
+1) Faça um programa que leia 3 valores inteiros e determine o maior entre eles
+2) Modifique o Programa anterior para exibir os números lidos em ordem crescente
+3) Modifique o programa da questão anterior para verificar se os 3 valores lidos formam um triângulo ou não. Se formar, o programa deverá indicar o tipo
+4) Receber uma data como input do usuário e verificar se ela é válida ou não ( formato livre!)
